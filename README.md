@@ -22,9 +22,53 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Results:
 
-### Balanced Accuracy Score
+### RandomOverSampler Model
 
-### Precision and Recall Scores of all Six Machine Learning
+**Balanced Accuracy Score**
+
+**Precision Scores**
+
+**Recall Scores**
+
+### SMOTE Model
+
+**Balanced Accuracy Score**
+
+**Precision Scores**
+
+**Recall Scores**
+
+### ClusterCentroids Model
+
+**Balanced Accuracy Score**
+
+**Precision Scores**
+
+**Recall Scores**
+
+### SMOTEENN Model
+
+**Balanced Accuracy Score**
+
+**Precision Scores**
+
+**Recall Scores**
+
+### BalancedRandomForestClassifier Model 
+
+**Balanced Accuracy Score**
+
+**Precision Scores**
+
+**Recall Scores**
+
+### EasyEnsembleClassifier Model
+
+**Balanced Accuracy Score**
+
+**Precision Scores**
+
+**Recall Scores**
 
 ## Summary:
 
