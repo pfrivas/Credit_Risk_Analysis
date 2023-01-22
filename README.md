@@ -66,6 +66,13 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ### BalancedRandomForestClassifier Model 
 
 **Balanced Accuracy Score**
+- Code: 
+```
+# Calculated the balanced accuracy score
+from sklearn.metrics import confusion_matrix, accuracy_score
+balanced_accuracy_score(y_test,y_pred)
+```
+- Results:
 
 **Precision Scores**
 
@@ -86,5 +93,13 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Summary:
 
 ### Summary of the Results
+
+**Ranking of models in descending order based on "High Risk" results:**
+-
+-
+-
+-
+-
+-
 
 ### Recommendation on which Model to use
