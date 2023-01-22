@@ -93,7 +93,6 @@ balanced_accuracy_score(y_test,y_pred)
 ## Summary:
 
 ### Summary of the Results
-
 **Ranking of models in descending order based on "High Risk" results:**
 -
 -
