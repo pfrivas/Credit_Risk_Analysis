@@ -20,6 +20,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - Data Source: LendingClub (LoanStats_2019Q1)
 - Software: Python, Anaconda, and Jupyter Notebooks
 
+
 ## Results:
 
 ### RandomOverSampler Model
@@ -30,6 +31,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 **Recall Scores**
 
+
+
 ### SMOTE Model
 
 **Balanced Accuracy Score**
@@ -37,6 +40,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 **Precision Scores**
 
 **Recall Scores**
+
+
 
 ### ClusterCentroids Model
 
@@ -46,6 +51,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 **Recall Scores**
 
+
+
 ### SMOTEENN Model
 
 **Balanced Accuracy Score**
@@ -53,6 +60,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 **Precision Scores**
 
 **Recall Scores**
+
+
 
 ### BalancedRandomForestClassifier Model 
 
@@ -62,6 +71,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 **Recall Scores**
 
+
+
 ### EasyEnsembleClassifier Model
 
 **Balanced Accuracy Score**
@@ -70,6 +81,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 **Recall Scores**
 
+
+
 ## Summary:
+
+### Summary of the Results
 
 ### Recommendation on which Model to use
