@@ -5,6 +5,8 @@
 ### Purpose
 
 ### Resources
+- Data Source: LendingClub (LoanStats_2019Q1)
+- Software: Python, Anaconda, and Jupyter Notebooks
 
 ## Results:
 
