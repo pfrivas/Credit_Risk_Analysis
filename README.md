@@ -136,7 +136,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ### Overall Summary of the Results
 
-When all six models were ran and compared, the EasyEnsembleClassifier model produced the best results with 93% accuracy and 7% precision when predictions high risk candidates.
+When all six models were ran and compared, the EasyEnsembleClassifier model produced the best results with 93% accuracy and 7% precision when predicting high risk candidates. The ClusterCentroids model produced the worst results with 54% accuracy and 1% precision when predicting high risk candidates.
 
 
 - **Ranking of models in descending order based on "High Risk" results:**
