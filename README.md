@@ -19,6 +19,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ### Resources
 - Data Source: LendingClub (LoanStats_2019Q1)
 - Software: Python, Anaconda, and Jupyter Notebooks
+- Code can be found at [Credit_Risk_Ensemble](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb) and [Credit_Risk_Resampling](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
 
 ## Results:
