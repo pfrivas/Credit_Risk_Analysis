@@ -35,6 +35,12 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 - ![roc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOversampler_ICR.png)
 
+**RandomOverSampler Model Results Overview**
+- Balanced accuracy score: 64%.
+- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 62%.
+
+
 ### SMOTE Model
 
 **Balanced Accuracy Score**
@@ -46,6 +52,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![smote_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ConfusionMatrix.png)
 
 - ![smote_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ICR.png)
+
+**SMOTEE Model Results Overview**
+- Balanced accuracy score: 64%.
+- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 62%.
 
 
 
@@ -61,6 +72,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 - ![cc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_ICR.png)
 
+**ClusterCentroids Model Results Overview**
+- Balanced accuracy score: 64%.
+- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 62%.
+
 
 ### SMOTEENN Model
 
@@ -73,6 +89,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![smote_enn_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_ConfusionMatrix.png)
 
 - ![smote_enn_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_ICR.png)
+
+**SMOTEENN Model Results Overview**
+- Balanced accuracy score: 64%.
+- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 62%.
 
 
 ### BalancedRandomForestClassifier Model 
@@ -87,12 +108,17 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 - ![brfc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_ICR.png)
 
+**BalancedRandomForestClassifier Model Results Overview**
+- Balanced accuracy score: 64%.
+- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 62%.
+
 
 ### EasyEnsembleClassifier Model
 
 **Balanced Accuracy Score**
 
-- ![eec_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_BalancedAccuracyScore.png))
+- ![eec_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_BalancedAccuracyScore.png)
 
 **Precision and Recall Scores**
 
@@ -100,17 +126,21 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 - ![eec_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_ICR.png)
 
+**EasyEnsembleClassier Model Results Overview**
+- Balanced accuracy score: 64%.
+- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 62%.
 
 
 ## Summary:
 
 ### Summary of the Results
-**Ranking of models in descending order based on "High Risk" results:**
--
--
--
--
--
--
+- **Ranking of models in descending order based on "High Risk" results:**
+  -
+  -
+  -
+  -
+  -
+  -
 
 ### Recommendation on which Model to use
