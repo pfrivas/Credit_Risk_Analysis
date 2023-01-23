@@ -134,7 +134,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Summary:
 
-### Summary of the Results
+### Overall Summary of the Results
+
+When all six models were ran and compared, the EasyEnsembleClassifier model produced the best results with 93% accuracy and 7% precision when predictions high risk candidates.
+
+
 - **Ranking of models in descending order based on "High Risk" results:**
   - ***EasyEnsembleClassifier Model***
     - 93% Accuracy
@@ -168,3 +172,5 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
     - 1% F1 Score
 
 ### Recommendation on which Model to use
+
+Unfortunately all models have a very low precision with the highest precision being 7% in the EasyEnsembleClassifier Model. With a low precision there could be a lot of false positives for high risk candidates. For that reason, none of these models should be used when predicting credit risk in candidates. However, if the bank did have to choose one of these six models, then the EasyEnsembleClassifier Model would be the most accurate (97% sccuracy) and precise (7% prrecision) model to use in predicting credit risk in potential candidates.
