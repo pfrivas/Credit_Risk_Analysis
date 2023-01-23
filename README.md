@@ -136,11 +136,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ### Summary of the Results
 - **Ranking of models in descending order based on "High Risk" results:**
-  -
-  -
-  -
-  -
-  -
-  -
+  - EasyEnsembleClassifier Model
+  - BalancedRandomForestClassifier Model
+  - SMOTE Model
+  - RandomOverSampler Model
+  - SMOTEENN Model
+  - ClusterCentroids Model
 
 ### Recommendation on which Model to use
