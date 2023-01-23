@@ -137,6 +137,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ### Summary of the Results
 - **Ranking of models in descending order based on "High Risk" results:**
   - EasyEnsembleClassifier Model
+    - 92.54% Accuracy
+    - 7% precision
+    - 91% Recall
+    - 14% F1 Score
   - BalancedRandomForestClassifier Model
   - SMOTE Model
   - RandomOverSampler Model
