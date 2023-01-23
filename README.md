@@ -92,7 +92,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 **Balanced Accuracy Score**
 
-- ![eec_bac](https://github.com/pfrivas/Credit_Risk_Analysis/tree/main/Images/EasyEnsembleClassifier%20Model)
+- ![eec_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_BalancedAccuracyScore.png))
 
 **Precision and Recall Scores**
 
