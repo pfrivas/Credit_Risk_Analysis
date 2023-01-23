@@ -36,9 +36,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![roc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOversampler_ICR.png)
 
 **RandomOverSampler Model Results Overview**
-- Balanced accuracy score: 64%.
-- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
-- The "Low Risk" had a precision rate of 100% and recall at 62%.
+- Balanced accuracy score: 65.47%.
+- The "High Risk" precision rate was only 1% with the recall at 72% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 59%.
 
 
 ### SMOTE Model
@@ -54,9 +54,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![smote_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ICR.png)
 
 **SMOTEE Model Results Overview**
-- Balanced accuracy score: 64%.
-- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
-- The "Low Risk" had a precision rate of 100% and recall at 62%.
+- Balanced accuracy score: 66.20%.
+- The "High Risk" precision rate was only 1% with the recall at 63% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 69%.
 
 
 
@@ -73,9 +73,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![cc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_ICR.png)
 
 **ClusterCentroids Model Results Overview**
-- Balanced accuracy score: 64%.
-- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
-- The "Low Risk" had a precision rate of 100% and recall at 62%.
+- Balanced accuracy score: 54.42%.
+- The "High Risk" precision rate was only 1% with the recall at 69% giving this model an F1 score of 1%.
+- The "Low Risk" had a precision rate of 100% and recall at 40%.
 
 
 ### SMOTEENN Model
@@ -91,9 +91,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![smote_enn_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_ICR.png)
 
 **SMOTEENN Model Results Overview**
-- Balanced accuracy score: 64%.
-- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
-- The "Low Risk" had a precision rate of 100% and recall at 62%.
+- Balanced accuracy score: 64.73%.
+- The "High Risk" precision rate was only 1% with the recall at 72% giving this model an F1 score of 2%.
+- The "Low Risk" had a precision rate of 100% and recall at 57%.
 
 
 ### BalancedRandomForestClassifier Model 
@@ -109,9 +109,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![brfc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_ICR.png)
 
 **BalancedRandomForestClassifier Model Results Overview**
-- Balanced accuracy score: 64%.
-- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
-- The "Low Risk" had a precision rate of 100% and recall at 62%.
+- Balanced accuracy score: 78.78%.
+- The "High Risk" precision rate was only 4% with the recall at 67% giving this model an F1 score of 7%.
+- The "Low Risk" had a precision rate of 100% and recall at 91%.
 
 
 ### EasyEnsembleClassifier Model
@@ -127,9 +127,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - ![eec_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_ICR.png)
 
 **EasyEnsembleClassier Model Results Overview**
-- Balanced accuracy score: 64%.
-- The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
-- The "Low Risk" had a precision rate of 100% and recall at 62%.
+- Balanced accuracy score: 92.54%.
+- The "High Risk" precision rate was only 7% with the recall at 91% giving this model an F1 score of 14%.
+- The "Low Risk" had a precision rate of 100% and recall at 94%.
 
 
 ## Summary:
