@@ -26,59 +26,79 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ### RandomOverSampler Model
 
 **Balanced Accuracy Score**
-![roc_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOverSampler_BalancedAccuracyScore.png)
+
+- ![roc_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOverSampler_BalancedAccuracyScore.png)
 
 **Precision and Recall Scores**
-![roc_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOverSampler_ConfusionMatrix.png)
-![roc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOversampler_ICR.png)
+
+- ![roc_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOverSampler_ConfusionMatrix.png)
+
+- ![roc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/RandomOversampler%20Model/RandomOversampler_ICR.png)
 
 ### SMOTE Model
 
 **Balanced Accuracy Score**
-![smote_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_BalancedAccuracyScore.png)
+
+- ![smote_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_BalancedAccuracyScore.png)
 
 **Precision and Recall Scores**
-![smote_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ConfusionMatrix.png)
-![smote_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ICR.png)
+
+- ![smote_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ConfusionMatrix.png)
+
+- ![smote_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ICR.png)
 
 
 
 ### ClusterCentroids Model
 
 **Balanced Accuracy Score**
-![cc_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_BalancedAccuracyScore.png)
+
+- ![cc_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_BalancedAccuracyScore.png)
 
 **Precision and Recall Scores**
-![cc_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_ConfusionMatrix.png)
-![cc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_ICR.png)
+
+- ![cc_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_ConfusionMatrix.png)
+
+- ![cc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Model/ClusterCentroids_ICR.png)
 
 
 ### SMOTEENN Model
 
 **Balanced Accuracy Score**
-![smote_enn_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_BalancedAccuracyScore.png)
+
+- ![smote_enn_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_BalancedAccuracyScore.png)
+
 **Precision and Recall Scores**
-![smote_enn_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_ConfusionMatrix.png)
-![smote_enn_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_ICR.png)
+
+- ![smote_enn_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_ConfusionMatrix.png)
+
+- ![smote_enn_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Model/SMOTEEN_ICR.png)
 
 
 ### BalancedRandomForestClassifier Model 
 
 **Balanced Accuracy Score**
-![brfc_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_BalancedAccuracyScore.png)
+
+- ![brfc_bac](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_BalancedAccuracyScore.png)
+
 **Precision and Recall Scores**
-![brfc_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_ConfusionMatrix.png)
-![brfc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_ICR.png)
+
+- ![brfc_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_ConfusionMatrix.png)
+
+- ![brfc_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest%20Classifier%20Model/RandomForest_ICR.png)
 
 
 ### EasyEnsembleClassifier Model
 
 **Balanced Accuracy Score**
-![eec_bac](https://github.com/pfrivas/Credit_Risk_Analysis/tree/main/Images/EasyEnsembleClassifier%20Model)
+
+- ![eec_bac](https://github.com/pfrivas/Credit_Risk_Analysis/tree/main/Images/EasyEnsembleClassifier%20Model)
 
 **Precision and Recall Scores**
-![eec_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_ConfusionMatrix.png)
-![eec_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_ICR.png)
+
+- ![eec_cm](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_ConfusionMatrix.png)
+
+- ![eec_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier%20Model/EEC_ICR.png)
 
 
 
