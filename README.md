@@ -53,7 +53,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 - ![smote_icr](https://github.com/pfrivas/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Model/SMOTE_ICR.png)
 
-**SMOTEE Model Results Overview**
+**SMOTE Model Results Overview**
 - Balanced accuracy score: 66.20%.
 - The "High Risk" precision rate was only 1% with the recall at 63% giving this model an F1 score of 2%.
 - The "Low Risk" had a precision rate of 100% and recall at 69%.
@@ -136,15 +136,35 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ### Summary of the Results
 - **Ranking of models in descending order based on "High Risk" results:**
-  - EasyEnsembleClassifier Model
-    - 92.54% Accuracy
+  - ***EasyEnsembleClassifier Model***
+    - 93% Accuracy
     - 7% precision
     - 91% Recall
     - 14% F1 Score
-  - BalancedRandomForestClassifier Model
-  - SMOTE Model
-  - RandomOverSampler Model
-  - SMOTEENN Model
-  - ClusterCentroids Model
+  - ***BalancedRandomForestClassifier Model***
+    - 79% Accuracy
+    - 4% precision
+    - 67% Recall
+    - 7% F1 Score
+  - ***SMOTE Model***
+    - 66% Accuracy
+    - 1% precision
+    - 63% Recall
+    - 2% F1 Score
+  - ***RandomOverSampler Model***
+    - 65% Accuracy
+    - 1% precision
+    - 72% Recall
+    - 2% F1 Score
+  - ***SMOTEENN Model***
+    - 65% Accuracy
+    - 1% precision
+    - 72% Recall
+    - 2% F1 Score
+  - ***ClusterCentroids Model***
+    - 54% Accuracy
+    - 1% precision
+    - 69% Recall
+    - 1% F1 Score
 
 ### Recommendation on which Model to use
